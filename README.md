@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there Welcome to the Sparkplug Studio Github! 
+
+For all the latest content please be sure to check out my master profile https://github.com/sparkplugstudios
 
 <!--
 **sparkplugstudio/sparkplugstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
